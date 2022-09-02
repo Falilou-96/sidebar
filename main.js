@@ -20,7 +20,7 @@ var Indicator = document.getElementById("Indicator");
     function register() {
         RegisterForm.style.transform = "translateX(0px)";
         LoginForm.style.transform = "translateX(0px)";
-        Indicator.style.transform = "translateX(100px)";
+        Indicator.style.transform = "translateX(101px)";
     }
 
     function login() {
